@@ -3,5 +3,5 @@
 # docker hub-
 https://hub.docker.com/r/inboxamitraj/amitflask
 
-# docker command to pull the image
-docker pull inboxamitraj/amitflask
+docker command to pull the image
+# docker pull inboxamitraj/amitflask
